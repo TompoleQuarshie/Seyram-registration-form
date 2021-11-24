@@ -1,0 +1,36 @@
+.formbody{
+    background-color:rgb(196, 241, 255);
+    padding:10px;
+    margin: 20px auto;
+    max-width: 450px;
+    border-radius: 10px;
+    box-shadow: rgb(124, 124, 158);
+    width: 70%;
+    box-shadow: 5px 5px;
+
+}h2{
+    font-size:50px;
+    font-style: oblique;
+    margin:auto;
+    text-align: center;
+    color: rgb(17, 181, 231);
+    
+}
+.deep{
+    width:85%;
+    padding:20px;
+    border-style: solid;
+    background-color:white;
+    border-radius:10px; 
+    font-size: 20px;
+    margin: 20px auto;
+    max-width:450px;
+    box-shadow: 5px 5px;
+    
+
+}
+.hash{
+    background-color: rgb(115, 165, 16);
+    margin:2px auto;
+    width:30%;
+}

@@ -1,0 +1,20 @@
+h1{
+    font: size 50px;;
+    font-style: oblique;
+    text-align: center;
+    text-emphasis:red;
+
+}
+form{
+    background-image: url(./ksji.jfif);
+    width:15%;
+    border-style: solid;
+    padding:20%;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+h4{
+    font-size:30px;
+    text-align: center;
+
+}
